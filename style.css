@@ -18,6 +18,7 @@
             position: sticky;
             top: 0;
             z-index: 1;
+            flex-wrap: wrap;
         }
 
         .nav-container{
@@ -27,6 +28,7 @@
             justify-content: space-between;
             align-items: center;
             margin: 0 auto;
+            flex-wrap: wrap;
         }
 
 .bn{
